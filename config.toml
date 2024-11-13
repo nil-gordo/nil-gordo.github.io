@@ -1,0 +1,4 @@
+baseURL = "https://github.com/nil-gordo/nil-gordo.github.io/"
+languageCode = "en-us"
+title = "Mi Proyecto Hugo"
+theme = "doks"  # Este es el nombre de tu tema, ajústalo si es necesario
